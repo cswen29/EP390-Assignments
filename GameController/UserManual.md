@@ -1,12 +1,12 @@
 ## USER MANUAL
 
-If using same controller, download ds3activate.zip from Canvas link :D
+If using same controller (PS3 DualShock), download ds3activate.zip otherwise just bluetooth connect the way you like. 
 
-Run in terminal when controller is connected to computer. 
+Run the file in terminal when controller is connected to computer. 
 
 Open Max Patch [It will be in Presentation mode]
 
-You will see the controller and whatever button you press will correspond with the one in Max. 
+You can see the controller and whatever button you press will correspond with the one in Max. 
 
 [Side note: make sure Max search path includes where your root folder of this patch resides...]
 
