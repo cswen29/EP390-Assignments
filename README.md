@@ -1,5 +1,5 @@
 # Special-Project-Seminar
-EP390 with David Cardona
+EP390 with David Cardona - Instrument building and design
 
 Spring 2024
 
